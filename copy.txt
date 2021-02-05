@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+    </head>
+        <h1>
+            <b>Projet d'orientation</b>
+            <br><br>
+            <em> # le formation envisagé # </em>
+        </h1>
+        <br><br>
+        <h2>
+        <b>
+            Information personnelles
+        </b>
+        </h2>
+        <ul>
+            <li>...</li>
+            <li>...</li>
+            <li>mes centres d'intéret son :</li>
+        </ul>
+        <dd>
+            <li type="circle">...</li>
+            <li type="circle">...</li>
+            <li type="circle">...</li>
+
+        </dd>
+<br><br>
+        <h2>
+        <b>
+            Spécialités envisager en 1ère
+        </b>
+        </h2>
+        <dl>
+            <li>...</li>
+            <li>...</li>
+            <li>...</li>
+        </dl>
+        <h2>Métier envisagé</h2>
+        <p>
+            <b>objectif:</b>
+            ... ; <br>
+            <ol>
+                <li>...</li>
+                <li>...</li>
+                <li>...</li>
+            </ol> 
+            <br>...
+        </p>
+    </body>
+</font>
+</html>
