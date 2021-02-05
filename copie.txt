@@ -1,0 +1,52 @@
+<! DOCTYPE html> 
+<html>
+    <head>
+ <meta charset="utf-8 » /> 
+    </head>
+        <h1>
+ <b>Projet d’orientation</b> 
+            <br><br>
+            <em> # le formation envisagé ( ce que tu veux faire comme formation ) # </em>
+        </h1>
+        <br><br>
+        <h2>
+        <b>
+ Informations personnelles 
+        </b>
+        </h2>
+        <ul>
+            <li>non/prénom</li>
+            <li>classe/li>
+ <li>mes centres d’intéret fils :</li> 
+        </ul>
+        <dd>
+            <li type="circle">ce que tu aime faire</li>
+            <li type="circle">tes occupation </li>
+            <li type="circle">se que tu veux faire</li>
+
+        </dd>
+<br><br>
+        <h2>
+        <b>
+            Spécialités envisager en 1ère
+        </b>
+        </h2>
+        <dl>
+ <li>matière ex: maths </li> 
+            <li>matière ex : histoir</li>
+            <li>matière ex : ses</li>
+        </dl>
+        <h2>Métier envisagé</h2>
+        <p>
+            <b>objectif:</b>
+ un paragraphe sur ce que tu voudrais ou se que tu envisage en première...; <br> 
+            <ol>
+ <li>... </li> 
+ <li>... </li> 
+ <li>... </li> 
+            </ol> 
+            <br>conclusion des tous ca 
+        </p>
+    </body>
+</police> 
+</html>
